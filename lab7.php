@@ -32,7 +32,6 @@
     <p>Susana Castillo</p>
     <p>8-968-509</p>
   </div>
-
   <h4>1. Imprimir los valores del siguiente arreglo asociativo usando la sentencia foreach</h4>
   <?php
   $v[1] = 90;
@@ -44,7 +43,6 @@
   }
   ?>
   <hr>
-
   <h4>2. Realizar un programa que muestre la cantidad de peliculas que se han visto por mes. Crear un arreglo que contenga los meses de enero, febrero, marzo y abril, asignando los valores 9, 12, 0 y 17 respectivamente. Si en alguno de los meses no se ha visto ninguna película no se debe mostrar la información de ese mes.</h4>
   <?php
   $meses = array(
@@ -59,7 +57,6 @@
     }
   }
   ?>
-
   <hr>
   <h4>3. Declare un arreglo asociativo para introducir los datos de la siguientes 4 personas:
     Mostar los datos en pantalla</h4>
@@ -106,7 +103,6 @@
     echo "La ciudad con el índice $key tiene el nombre de $value <br>";
   }
   ?>
-
   <hr>
   <h4>6. Queremos almacenar en una matriz el número de alumnos con el que cuenta un centro de lenguas, ordenados en función del nivel y del idioma que se estudia. Tendremos 3 filas que representarán al Nivel básico, medio y de perfeccionamiento y 4 columnas en las que figurarán los idiomas (0 = Inglés, 1 = Francés, 2 = Alemán y 3 = Portugues). Se pide realizar la declaración de la matriz y asignarle los valores indicados en la siguiente imagen a cada elemento.</h4>
   <?php
@@ -124,9 +120,6 @@
     echo "<br>";
   }
   ?>
-
-
-
 </body>
 
 </html>
