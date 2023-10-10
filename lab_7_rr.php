@@ -29,7 +29,7 @@ h1 {
 <body>
     <div class="head">
         <h1>Laboratorio 7</h1>
-        <p>Susana Castillo</p>
+        <p>Ronaldo Rodriguez</p>
         <p>8-968-509</p>
     </div>
     <h4>1. Realice un programa que calcule el sueldo que le corresponde al trabajador de una empresa que cobra $40.000
